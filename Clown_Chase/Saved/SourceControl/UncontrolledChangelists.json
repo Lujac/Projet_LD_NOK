@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/mk400612/Documents/GitHub/Projet_LD_NOK/Clown_Chase/Content/Level/BaseForest.umap",
+				"C:/Users/mk400612/Documents/GitHub/Projet_LD_NOK/Clown_Chase/Content/Characters/Clown/Gissa_PhysicsAsset.uasset",
+				"C:/Users/mk400612/Documents/GitHub/Projet_LD_NOK/Clown_Chase/Content/Characters/Clown/Gissa.uasset",
+				"C:/Users/mk400612/Documents/GitHub/Projet_LD_NOK/Clown_Chase/Content/Characters/Clown/Gissa_Skeleton.uasset",
+				"C:/Users/mk400612/Documents/GitHub/Projet_LD_NOK/Clown_Chase/Content/Characters/Clown/Clown.uasset",
+				"C:/Users/mk400612/Documents/GitHub/Projet_LD_NOK/Clown_Chase/Content/Characters/Clown/Animation/Saggi_AB.uasset",
+				"C:/Users/mk400612/Documents/GitHub/Projet_LD_NOK/Clown_Chase/Content/Characters/Clown/Aicontroller.uasset",
 				"C:/Users/gn402417/Documents/GitHub/Projet_LD_NOK/Clown_Chase/Content/Level/BaseForest.umap",
 				"C:/Users/gn402417/Documents/GitHub/Projet_LD_NOK/Clown_Chase/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/gn402417/Documents/GitHub/Projet_LD_NOK/Clown_Chase/Content/FirstPersonArms/Animations/FP_Run_Fwd.uasset",
@@ -12,6 +19,7 @@
 				"C:/Users/gn402417/Documents/GitHub/Projet_LD_NOK/Clown_Chase/Content/Flashlight/M_flashlight.uasset",
 				"C:/Users/gn402417/Documents/GitHub/Projet_LD_NOK/Clown_Chase/Content/Flashlight/12167.uasset",
 				"C:/Users/gn402417/Documents/GitHub/Projet_LD_NOK/Clown_Chase/Content/Flashlight/images.uasset",
+<<<<<<< Updated upstream
 				"C:/Users/gn402417/Documents/GitHub/Projet_LD_NOK/Clown_Chase/Content/Level/Material/M_terrain.uasset",
 				"C:/Users/gn402417/Documents/GitHub/Projet_LD_NOK/Clown_Chase/Content/Level/Material/brown_mud_02_diff_1k.uasset",
 				"C:/Users/gn402417/Documents/GitHub/Projet_LD_NOK/Clown_Chase/Content/Level/Material/brown_mud_02_disp_1k.uasset",
@@ -23,6 +31,14 @@
 				"C:/Users/gn402417/Documents/GitHub/Projet_LD_NOK/Clown_Chase/Content/Level/Material/forrest_ground_01_nor_gl_1k.uasset",
 				"C:/Users/gn402417/Documents/GitHub/Projet_LD_NOK/Clown_Chase/Content/Level/Material/forrest_ground_01_rough_1k.uasset",
 				"C:/Users/gn402417/Documents/GitHub/Projet_LD_NOK/Clown_Chase/Content/Level/BaseForest_sharedassets/grass_LayerInfo.uasset",
+=======
+				"C:/Users/gn402417/Documents/GitHub/Projet_LD_NOK/Clown_Chase/Content/FirstPersonArms/Animations/FP_Rifle_Run.uasset",
+				"C:/Users/gn402417/Documents/GitHub/Projet_LD_NOK/Clown_Chase/Content/Sounds/rustling-grass-1-101282.uasset",
+				"C:/Users/gn402417/Documents/GitHub/Projet_LD_NOK/Clown_Chase/Content/Sounds/rustling-grass-2-101283.uasset",
+				"C:/Users/gn402417/Documents/GitHub/Projet_LD_NOK/Clown_Chase/Content/Sounds/rustling-grass-3-101284.uasset",
+				"C:/Users/gn402417/Documents/GitHub/Projet_LD_NOK/Clown_Chase/Content/Sounds/rustling-grass-4-101281.uasset",
+				"C:/Users/gn402417/Documents/GitHub/Projet_LD_NOK/Clown_Chase/Content/Sounds/SC_GrassFootstep.uasset",
+>>>>>>> Stashed changes
 				"D:/Unreal Projects/Nouveau dossier/Projet_LD_NOK/Clown_Chase/Content/Level/BaseForest.umap",
 				"C:/Users/Kieran/OneDrive/Documents/GitHub/Projet_LD_NOK/Clown_Chase/Content/Characters/Clown/Mesh/Saggi_Skeleton.uasset",
 				"C:/Users/Kieran/OneDrive/Documents/GitHub/Projet_LD_NOK/Clown_Chase/Content/Characters/Clown/Mesh/Saggi.uasset",
